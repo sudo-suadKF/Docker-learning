@@ -369,8 +369,22 @@ A clean introduction to containerizing JavaScript applications.
 - Understand what nodemon is and how it works.
 - How to containerize a node.js application and unerstand the differences from  other applications, for example a flask application.
 
+### Final Thoughts
+This repository is designed to not only show what I built, but to help others learn Docker the right way. 
+If you're new to Docker, these projects will give you a rock-solid foundation in:
+- Containers
+- Dockerfile & Docker Images
+- Multi-stage Dockerfile
+- Networking
+- Complete Docker Workflow (app -> dockerfile -> docker image -> create network -> run containers)
+- Docker Compose & Docker-Compose File
+- Connecting application with various databases and services (Redis, MySQL, Nginx)
+- Persist data
+- Environment variables
+- Load Balancing
+- Scaling Applications
 
-
+Feel free to explore the code, run the containers, break things, fix them, because that’s how you truly learn DevOps!
 
 
 
