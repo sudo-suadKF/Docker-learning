@@ -348,7 +348,7 @@ A clean introduction to containerizing JavaScript applications.
     - Run the application with Docker Compose: 
         `docker compose -d --build`
     - Check if it worked by searching for:
-        - **127.0.0.1:1199**
+        - **127.0.0.1:1199** 
         <img src="images/nodejs_app.png"></img>
 
 #### Key Lessons
